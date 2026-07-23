@@ -8,7 +8,7 @@ See [`RESULTS.md`](./RESULTS.md) for the ranked view
 
 ## Contents
 
-- [`submissions/`](./submissions): all 5 confirmed entries, in the order they're ranked in the verdict.
+- [`submissions/`](./submissions): all 5 confirmed entries
 
 
 ## Sources
