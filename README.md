@@ -10,15 +10,6 @@ See [`RESULTS.md`](./RESULTS.md) for the ranked view
 
 - [`submissions/`](./submissions): all 5 confirmed entries, in the order they're ranked in the verdict.
 
-## Confirmed entrants
-
-| # | Entrant | Format | Length | Channel |
-|---|---------|--------|--------|---------|
-| 1 | YNG OTF | PDF | 88 pages | Telegram |
-| 2 | EZ MONEY | PDF | 31 pages | Telegram |
-| 3 | Lizzy | PDF | 13 pages | Telegram |
-| 4 | Christopher Cialone ([@cialoneCodes](https://x.com/cialoneCodes)) | GitHub README / X post | 1 doc, 8 sections | [X](https://x.com/cialoneCodes/status/2079944536659235130) + [GitHub](https://github.com/christopher-cialone/pardon-request) |
-| 5 | ROM "Recovery On Mint" | PDF | 13 pages | Telegram |
 
 ## Sources
 
