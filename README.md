@@ -4,7 +4,7 @@ Archive of entries to Paul Sztorc's ["Free Samourai: Plan + $30,000 Prize"](http
 
 Deadline: 9 AM Tuesday, July 21, 2026 (EST). Prizes: 1st = $8,000, 2nd/3rd = $1,000 each.
 
-See [`JUDGING_VERDICT.md`](./JUDGING_VERDICT.md) for the full ranked review and reasoning.
+See [`RESULTS.md`](./RESULTS.md) for the ranked view
 
 ## Contents
 
