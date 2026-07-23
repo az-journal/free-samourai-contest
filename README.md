@@ -1,0 +1,26 @@
+# Free Samourai Contest - Submission Archive & Judging Notes
+
+Archive of entries to Paul Sztorc's ["Free Samourai: Plan + $30,000 Prize"](https://www.truthcoin.info/files/free-samourai/) contest, announced July 7, 2026. The contest asked entrants to build a presidential-clemency "data room" advocating for a pardon of Samourai Wallet co-founders **Keonne Rodriguez** and **William Lonergan Hill**, who were sentenced in November 2025 to 5 and 4 years respectively after pleading guilty in SDNY case 1:24-cr-00265.
+
+Deadline: 9 AM Tuesday, July 21, 2026 (EST). Prizes: 1st = $8,000, 2nd/3rd = $1,000 each.
+
+See [`JUDGING_VERDICT.md`](./JUDGING_VERDICT.md) for the full ranked review and reasoning.
+
+## Contents
+
+- [`submissions/`](./submissions): all 5 confirmed entries, in the order they're ranked in the verdict.
+
+## Confirmed entrants
+
+| # | Entrant | Format | Length | Channel |
+|---|---------|--------|--------|---------|
+| 1 | YNG OTF | PDF | 88 pages | Telegram |
+| 2 | EZ MONEY | PDF | 31 pages | Telegram |
+| 3 | Lizzy | PDF | 13 pages | Telegram |
+| 4 | Christopher Cialone ([@cialoneCodes](https://x.com/cialoneCodes)) | GitHub README / X post | 1 doc, 8 sections | [X](https://x.com/cialoneCodes/status/2079944536659235130) + [GitHub](https://github.com/christopher-cialone/pardon-request) |
+| 5 | ROM "Recovery On Mint" | PDF | 13 pages | Telegram |
+
+## Sources
+
+- Contest rules: [truthcoin.info/files/free-samourai](https://www.truthcoin.info/files/free-samourai/)
+- Case background: [Bitcoin Magazine](https://bitcoinmagazine.com/legal/pardoning-the-samourai-developers-would-restore-legal-clarity-and-protect-non-custodial-code), [Yahoo Finance](https://finance.yahoo.com/news/trump-hints-samourai-wallet-pardon-000402197.html), [IRS.gov](https://www.irs.gov/compliance/criminal-investigation/founders-of-samourai-wallet-cryptocurrency-mixing-service-sentenced-to-five-and-four-years-in-prison), [Stacker News](https://stacker.news/items/1523236)
