@@ -5,7 +5,7 @@ See [`RESULTS.md`](./RESULTS.md) for the ranking. See [`../README.md`](../README
 
 - [`submissions/`](./submissions): all 4 revised (v2) entries, in the order they're ranked.
 
-## Revised entrants
+## Round 2 Results
 
 | # | Entrant | Format | Round 1 result |
 |---|---------|--------|-----------------|
