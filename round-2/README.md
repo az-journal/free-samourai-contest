@@ -10,7 +10,7 @@ See [`RESULTS.md`](./RESULTS.md) for the ranking. See [`../README.md`](../README
 | # | Entrant | Format | Round 1 result |
 |---|---------|--------|-----------------|
 | 1 | YNG OTF | PDF, 96 pages | 1st, $8,000 |
-| 2 | ROM "Recovery On Mint" | PDF, 66 pages | 5th, disqualified |
+| 2 | ROM "Recovery On Mint" | PDF, 66 pages | 5th |
 | 3 | Lizzy | PDF, 14 pages | 3rd, $1,000 |
 | 4 | EZ MONEY | PDF, 29 pages | 2nd, $1,000 |
 
