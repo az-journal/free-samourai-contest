@@ -1,8 +1,3 @@
-# Free Samourai Contest - Round 2 (Revision Iteration)
-
-Second iteration of Paul Sztorc's ["Free Samourai: Plan + $30,000 Prize"](https://www.truthcoin.info/files/free-samourai/) contest. After round 1, Paul gave feedback to the top entrants and asked them to submit revised (v2) data rooms so he could pick a new 1st, 2nd, and 3rd place. Per the contest rules, this is one of two "half-prize" iterations (pool: $5,000) that follow the initial $10,000 round.
-
-Only the four contestants Paul asked to revise are part of round 2: **YNG OTF**, **ROM "Recovery On Mint"**, **Lizzy**, and **EZ MONEY**. Christopher Cialone was not part of the revision round.
 
 See [`RESULTS.md`](./RESULTS.md) for the ranking. See [`../README.md`](../README.md) and [`../RESULTS.md`](../RESULTS.md) for round 1.
 
