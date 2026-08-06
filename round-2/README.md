@@ -1,6 +1,8 @@
 
 See [`RESULTS.md`](./RESULTS.md) for the ranking. See [`../README.md`](../README.md) and [`../RESULTS.md`](../RESULTS.md) for round 1.
 
+For updates and discussion, join the Telegram channel: [t.me/FreeSamourai](https://t.me/FreeSamourai).
+
 ## Contents
 
 - [`submissions/`](./submissions): all 4 revised (v2) entries, in the order they're ranked.
